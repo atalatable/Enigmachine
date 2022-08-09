@@ -44,7 +44,7 @@ And here with the second (2) method
 
 1. You need to be on a windows machine
 2. Open your terminal
-3. Clone repo with `git clone `
+3. Clone repo with `git clone https://github.com/atalatable/Enigmachine.git`
 4. Run `cd Enigmachine`
 5. Either run the program `./main.exe` (But you should never trust anyone)
 6. Or if you dont trust me, recompile it with `gcc main.c -o whateverName`
