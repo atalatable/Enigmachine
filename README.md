@@ -4,6 +4,8 @@ You could have guessed with the name but this is a way to code messages way stro
 
 At that time I was still using french so good luck understanding (it's not that hard you can do it)
 
+> I'm adding this after publishing but I think that I made a Vigenere Cipher machine (without knowing). Tell me if I am wrong
+
 ## Demo
 
 ### Menu
